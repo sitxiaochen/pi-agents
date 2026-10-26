@@ -1,0 +1,17 @@
+{
+    "id":  "notion",
+    "label":  "Notion",
+    "description":  "Notion 页面与数据库（需本机完成 OAuth 授权）",
+    "transport":  "http",
+    "command":  null,
+    "args":  [
+
+             ],
+    "env":  {
+
+            },
+    "url":  "https://mcp.notion.com/mcp",
+    "headers":  {
+
+                }
+}

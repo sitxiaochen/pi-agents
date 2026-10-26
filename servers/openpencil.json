@@ -1,0 +1,17 @@
+{
+    "id":  "openpencil",
+    "label":  "OpenPencil",
+    "description":  "本地设计画布（需本机运行 OpenPencil，默认 127.0.0.1:3100）",
+    "transport":  "http",
+    "command":  null,
+    "args":  [
+
+             ],
+    "env":  {
+
+            },
+    "url":  "http://127.0.0.1:3100/mcp",
+    "headers":  {
+
+                }
+}
