@@ -1,0 +1,17 @@
+{
+    "id":  "deepwiki",
+    "label":  "DeepWiki",
+    "description":  "GitHub 仓库架构百科",
+    "transport":  "http",
+    "command":  null,
+    "args":  [
+
+             ],
+    "env":  {
+
+            },
+    "url":  "https://mcp.deepwiki.com/mcp",
+    "headers":  {
+
+                }
+}

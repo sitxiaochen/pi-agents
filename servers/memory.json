@@ -1,0 +1,14 @@
+{
+  "id": "memory",
+  "label": "Memory",
+  "description": "持久知识图谱,让会话之间记住实体与关系",
+  "transport": "stdio",
+  "command": "npx",
+  "args": [
+    "-y",
+    "@modelcontextprotocol/server-memory"
+  ],
+  "env": {},
+  "url": null,
+  "headers": {}
+}

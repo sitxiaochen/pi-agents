@@ -1,0 +1,17 @@
+{
+    "id":  "fetch",
+    "label":  "Fetch",
+    "description":  "网页转 Markdown。依赖 uvx (uv)，未安装则启动失败",
+    "transport":  "stdio",
+    "command":  "uvx",
+    "args":  [
+                 "mcp-server-fetch"
+             ],
+    "env":  {
+
+            },
+    "url":  null,
+    "headers":  {
+
+                }
+}

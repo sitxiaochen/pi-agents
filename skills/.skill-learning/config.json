@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "reviewEnabled": true,
+  "reviewAfterToolCalls": 10,
+  "minReviewIntervalSec": 120,
+  "scope": "global",
+  "writeApproval": "notify",
+  "modelKey": "",
+  "maxQueue": 2
+}

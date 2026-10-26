@@ -1,0 +1,13 @@
+{
+  "id": "time",
+  "label": "Time",
+  "description": "查时区与时间换算",
+  "transport": "stdio",
+  "command": "uvx",
+  "args": [
+    "mcp-server-time"
+  ],
+  "env": {},
+  "url": null,
+  "headers": {}
+}

@@ -1,0 +1,17 @@
+{
+    "id":  "exa",
+    "label":  "Exa",
+    "description":  "面向 AI 的网络搜索",
+    "transport":  "http",
+    "command":  null,
+    "args":  [
+
+             ],
+    "env":  {
+
+            },
+    "url":  "https://mcp.exa.ai/mcp",
+    "headers":  {
+
+                }
+}

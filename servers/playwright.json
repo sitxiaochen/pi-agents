@@ -1,0 +1,18 @@
+{
+    "id":  "playwright",
+    "label":  "Playwright",
+    "description":  "可访问性树驱动浏览器。版本锁定于 2026-10-26，升级需两台同时改",
+    "transport":  "stdio",
+    "command":  "npx",
+    "args":  [
+                 "-y",
+                 "@playwright/mcp@0.0.83"
+             ],
+    "env":  {
+
+            },
+    "url":  null,
+    "headers":  {
+
+                }
+}

@@ -1,0 +1,18 @@
+{
+    "id":  "context7",
+    "label":  "Context7",
+    "description":  "随时查框架与库的最新文档",
+    "transport":  "stdio",
+    "command":  "npx",
+    "args":  [
+                 "-y",
+                 "@upstash/context7-mcp"
+             ],
+    "env":  {
+
+            },
+    "url":  null,
+    "headers":  {
+
+                }
+}

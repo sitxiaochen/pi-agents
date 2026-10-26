@@ -1,0 +1,14 @@
+{
+  "id": "sequential-thinking",
+  "label": "Sequential Thinking",
+  "description": "动态反思式分步推理,复杂问题拆解",
+  "transport": "stdio",
+  "command": "npx",
+  "args": [
+    "-y",
+    "@modelcontextprotocol/server-sequential-thinking"
+  ],
+  "env": {},
+  "url": null,
+  "headers": {}
+}
