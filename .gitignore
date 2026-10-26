@@ -9,8 +9,8 @@ skills/.skill-learning/queue/
 **/_boot.txt
 
 # ---- machine-bound ----
-servers/filesystem.json
-servers/github.json
+servers/filesystem.json*
+servers/github.json*
 # ---- OS junk ----
 **/.DS_Store
 **/Thumbs.db
