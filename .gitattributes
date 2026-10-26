@@ -1,5 +1,4 @@
-# 统一换行：仓库内一律 LF，检出不做转换
-# 防止 Windows 端 core.autocrlf=true 把 CRLF 写进历史
+# Enforce LF in repository regardless of core.autocrlf on either machine.
 * text=auto eol=lf
 
 *.ps1  text eol=lf
@@ -7,7 +6,7 @@
 *.json text eol=lf
 *.txt  text eol=lf
 
-# 二进制
+# Binaries
 *.png  binary
 *.jpg  binary
 *.zip  binary
