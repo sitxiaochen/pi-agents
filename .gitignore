@@ -10,8 +10,7 @@ skills/.skill-learning/queue/
 
 # ---- machine-bound ----
 servers/filesystem.json
-
-
+servers/github.json
 # ---- OS junk ----
 **/.DS_Store
 **/Thumbs.db
