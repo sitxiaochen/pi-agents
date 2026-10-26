@@ -1,3 +1,0 @@
-PENDING: 此技能来自另一台设备，内容待 clone 后填入。
-目录名: ssh-safe-operations
-排除项: select-internal-tunneling（含沙箱特定探测值，跨机即错误事实）
